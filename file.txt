@@ -6,4 +6,4 @@ This line is added by Taha.
 
 This line is added by Ahmad
 
-Then I added this line by Ahmad
+This line is added by Ahmad and Taha.
